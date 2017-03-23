@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ZeniCoin
+Comment=ZeniCoin P2P Cryptocurrency
+Comment[fr]=ZeniCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ZeniCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/ZeniCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/ZeniCoin;
+Categories=Office;

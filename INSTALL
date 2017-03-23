@@ -1,0 +1,9 @@
+Building ZeniCoin
+
+See doc/readme-qt.rst for instructions on building ZeniCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ZeniCoin.
+
+See doc/build-*.txt for instructions on building ZeniCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ZeniCoin.

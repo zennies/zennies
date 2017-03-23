@@ -1,0 +1,2 @@
+debian/bin/ZeniCoind usr/bin
+src/ZeniCoind usr/lib/ZeniCoin
