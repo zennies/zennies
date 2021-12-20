@@ -4,7 +4,7 @@ Get ready for even more Small Change in a bigger world of cryptocurrency!
 
 ZENI for 2022
 ===========================
-Get ready for the new Zennies as the World moves in a new direction.
+Get ready for the new Zennies as the World moves in a new direction. More than 5 years have passed since the ZENI genesis block and it's been well over 1M blocks since the fun began. As we move into 2022 and beyond let's make Zennies the next great cryptocurrency and make Small Change for Everyone!
 
 
 ZeniCoin is a PoS-based cryptocurrency.
