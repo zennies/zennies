@@ -2,6 +2,11 @@ Welcome to Zennies!!!
 ===========================
 Get ready for even more Small Change in a bigger world of cryptocurrency!
 
+ZENI for 2022
+===========================
+Get ready for the new Zennies as the World moves in a new direction.
+
+
 ZeniCoin is a PoS-based cryptocurrency.
 ZeniCoin development tree
 
