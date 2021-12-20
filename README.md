@@ -1,7 +1,9 @@
-
-ZeniCoin development tree
+Welcome to Zennies!!!
+===========================
+Get ready for even more Small Change in a bigger world of cryptocurrency!
 
 ZeniCoin is a PoS-based cryptocurrency.
+ZeniCoin development tree
 
 Development process
 ===========================
